@@ -1,0 +1,5 @@
+#!/usr/bin/env perl
+use strict;
+use warnings;
+my $token = "E8DAThfl-LwiahjskDJ5VLU9nIDxl0WJ";
+print "Don't ever do this for real\n";
