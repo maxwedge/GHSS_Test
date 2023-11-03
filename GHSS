@@ -1,5 +1,4 @@
 #!/usr/bin/env perl
 use strict;
 use warnings;
-my $fastlyToken = "BKmb27_PLQMQmULFWtcepXxW9Lks_lCd";
-print "Don't ever do this for real\n";
+my $nunca = "";
